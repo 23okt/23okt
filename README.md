@@ -123,6 +123,16 @@ A project exploring energy consumption prediction and data-driven insights.
 
 I'm open to learning opportunities, collaboration, and projects involving mobile and web application development.
 
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23okt/23okt/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/23okt/23okt/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/23okt/23okt/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/Explore_My_Projects-23okt-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23okt)
