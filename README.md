@@ -2,7 +2,7 @@
 
 # Muhammad Gilang Ramadhan
 
-### Mobile Developer · Web Developer
+### Mobile Developer · Fullstack Developer
 
 Building useful, reliable, and user-focused digital experiences.
 
